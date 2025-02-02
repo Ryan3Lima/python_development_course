@@ -1,6 +1,7 @@
 FILEPATH = 'todos.txt'
 
 
+
 def get_todos(filepath=FILEPATH):
     """ Open the text file located at filepath, and read the file line by line to a list
     :param filepath: type=String; Path to todos.txt
